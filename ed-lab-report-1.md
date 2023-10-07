@@ -1,4 +1,4 @@
-![image1-cd-ls-cat1](Screenshot (45).png)
+![image1-cd-ls-cat1](/Screenshot (45).png)
 ![image1-cat2-3](https://github.com/KevinZhou0519/labreport1/blob/32731e238d511eb50752d78b8432d1de321d03fb/Screenshot%20(46).png)
 1. cd with nothing: it is home when I run cd. If we do not add anything to the cd at the beginning, then nothing will happen because it is changing the dictionary back to home. However, if we are in a different dictionary, then cd with nothing will change the path back to home.There is no error
 2. cd with folder: the path is home when I run cd. This will change the path to a folder(cd filename) therefore we can run or read another file, folder from the folder you just cd to. There is no error
